@@ -56,9 +56,9 @@ From: tensorflow/tensorflow:1.13.1-gpu-py3
   pip install pandas
 
   # for Xiaoxiao
-  pip install tables #pytables
-  pip install nilearn
-  pip install nibabel
+  #pip install tables #pytables
+  #pip install nilearn
+  #pip install nibabel
 
   # TODO: SimpleElastix
   # git clone https://github.com/SuperElastix/SimpleElastix
