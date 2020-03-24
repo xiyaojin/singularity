@@ -1,5 +1,5 @@
   
-#Bootstrap: docker
+Bootstrap: docker
 #From: tensorflow/tensorflow:2.0.0-gpu-py3
 pip install --upgrade tensorflow
 
