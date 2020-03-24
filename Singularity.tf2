@@ -1,6 +1,7 @@
   
-Bootstrap: docker
-From: tensorflow/tensorflow:2.0.0-gpu-py3
+#Bootstrap: docker
+#From: tensorflow/tensorflow:2.0.0-gpu-py3
+pip install tensorflow
 
 # adapted from: https://github.com/marcc-hpc/tensorflow
 
