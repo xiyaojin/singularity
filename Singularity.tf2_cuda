@@ -1,7 +1,6 @@
   
 Bootstrap: docker
-From: tensorflow/tensorflow:2.0.0a0-gpu-py3
-From: nvidia/cuda:10.0-cudnn7-runtime-centos6
+From: tensorflow/tensorflow:2.0.0a0-gpu-py3,nvidia/cuda:10.0-cudnn7-runtime-centos6
 
 
 # adapted from: https://github.com/marcc-hpc/tensorflow
