@@ -54,7 +54,7 @@ From: tensorflow/tensorflow:2.1.0-gpu-py3
   pip install comet_ml
   
  # TF addons
-  pip install tensorflow-addons==2.0.0
+  pip install tensorflow-addons==0.7.1
 
   #pandas
   pip install pandas
