@@ -59,6 +59,9 @@ From: tensorflow/tensorflow:2.4.0-custom-op-gpu-ubuntu16
   #pandas
   pip install pandas
 
+  pip uninstall numpy
+  pip install numpy
+
   # for Xiaoxiao
   #pip install tables #pytables
   #pip install nilearn
